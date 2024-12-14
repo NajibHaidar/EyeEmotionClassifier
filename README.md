@@ -1,6 +1,9 @@
 # Authors
 ### Najib Haidar and Devan Perkash
 
+# Link to Best Model
+### https://drive.google.com/file/d/15iJsLreuKHEcDSiR9jQifn4FLY0grKVL/view?usp=sharing
+
 # Project Overview
 
 ### The Emotion Classifier project aims to develop a neural network that can accurately classify human emotions based on an image of only the person's eyes. The primary goal is to create an end-to-end pipeline for training, validating, and testing a robust emotion classification model. This model has applications in human-computer interaction, affective computing, and mental health monitoring. The project includes well-structured modular code, a clear training and evaluation strategy, and a simple demo script to showcase its functionality. By leveraging convolutional neural networks (CNNs) for feature extraction and Transformer encoders for global context understanding, the model is designed to provide accurate emotion classification across multiple classes.
