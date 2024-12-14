@@ -29,9 +29,9 @@ demo/
   ├── demo.py
 ```
 ### You can run the demo script using the following command:
-
-### python demo.py
-
+```
+python demo.py
+```
 # Expected Output
 
 ### After running the demo script, you should see:
