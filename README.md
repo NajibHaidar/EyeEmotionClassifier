@@ -23,10 +23,11 @@
 
 ## Paste those 7 folders into the demo folder:
 
-|--Demo
-  |-- Demo Data
-  |-- demo.py
-
+```
+demo/
+  ├── demo_data/
+  ├── demo.py
+```
 ### You can run the demo script using the following command:
 
 ### python demo.py
