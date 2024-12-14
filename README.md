@@ -20,23 +20,20 @@
 
 ## Paste those 7 folders into the demo folder:
 
-```
-demo/
-  ├── demo_data/
-  ├── demo.py
-```
-
 ## Download the final model weights from Google Drive:
 ### https://drive.google.com/file/d/15iJsLreuKHEcDSiR9jQifn4FLY0grKVL/view?usp=sharing
 
 ## Create a folder called checkpoints and paste the .pth file (from link above) into it:
 
+## This is what those new additions should look like:
 ```
+...
 checkpoints/
   ├── final_model.pth
 demo/
   ├── demo_data/
   ├── demo.py
+...
 ```
 
 ### You can run the demo script using the following command:
