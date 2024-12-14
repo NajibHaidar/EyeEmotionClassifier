@@ -18,9 +18,18 @@
 
 # How To Run
 
+## Download the demo dataset from Google Drive:
+### https://drive.google.com/drive/folders/1eQtgqIGsJnYhTgaM9stB51WdngOUaBsK?usp=drive_link
+
+## Paste those 7 folders into the demo folder:
+
+|--Demo
+  |-- Demo Data
+  |-- demo.py
+
 ### You can run the demo script using the following command:
 
-### jupyter notebook demo.ipynb
+### python demo.py
 
 # Expected Output
 
